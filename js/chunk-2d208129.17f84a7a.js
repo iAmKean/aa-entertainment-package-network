@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208129"],{a2df:function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"subfooter-container theme-color-one theme-font-four"},[n("div",[t._v(t._s(t.title))])])},r=[],i={data:function(){return{title:"Copyright ©2019-2020 AA娱乐包网"}}},u=i,a=n("2877"),c=Object(a["a"])(u,o,r,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d208129.17f84a7a.js.map
